@@ -1,0 +1,5 @@
+*.DS_Store
+Tensorflow/workspace/models/*
+Tensorflow/workspace/pre-trained-models/*
+*.record
+Tensorflow/models/*

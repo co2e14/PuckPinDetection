@@ -1,0 +1,34 @@
+item {
+  id: 1
+  name: 'pin'
+}
+
+item {
+  id: 2
+  name: 'empty'
+}
+
+item {
+  id: 3
+  name: 'hole'
+}
+
+item {
+  id: 4
+  name: 'rod'
+}
+
+item {
+  id: 5
+  name: 'misplaced'
+}
+
+item {
+  id: 6
+  name: 'bent'
+}
+
+item {
+  id: 7
+  name: 'adapter'
+}

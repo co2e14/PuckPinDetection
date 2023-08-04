@@ -1,0 +1,7 @@
+pin
+empty
+hole
+rod
+misplaced
+bent
+adapter
